@@ -2,8 +2,16 @@
   "version": 1,
   "base_track": "ふわふわり",
   "base_artist": "中須かすみ (CV.相良茉優)、エマ・ヴェルデ (CV.指出毬亜)",
-  "createdAt": "2025-12-28T03:24:08.892459Z",
+  "createdAt": "2026-02-19T08:41:37.702615Z",
   "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ふわふわり",
+      "artist": "中須かすみ(CV.相良茉優)、エマ・ヴェルデ(CV.指出毬亜)",
+      "has_synced": true,
+      "path": "select/01_ふわふわり_中須かすみ(CV.相良茉優)、エマ・ヴェルデ(CV.指出毬亜).lrc"
+    },
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
